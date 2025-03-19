@@ -1,0 +1,16 @@
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\bin\Debug\net8.0-windows\SemestralniPlanovac.exe
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\bin\Debug\net8.0-windows\SemestralniPlanovac.deps.json
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\bin\Debug\net8.0-windows\SemestralniPlanovac.runtimeconfig.json
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\bin\Debug\net8.0-windows\SemestralniPlanovac.dll
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\bin\Debug\net8.0-windows\SemestralniPlanovac.pdb
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.Form1.resources
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.csproj.GenerateResource.cache
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.AssemblyInfoInputs.cache
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.AssemblyInfo.cs
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.csproj.CoreCompileInputs.cache
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.dll
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\refint\SemestralniPlanovac.dll
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.pdb
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\SemestralniPlanovac.genruntimeconfig.cache
+C:\Users\Martin Bui Anh\Source\Repos\SemestralniPlanovac\SemestralniPlanovac\obj\Debug\net8.0-windows\ref\SemestralniPlanovac.dll
